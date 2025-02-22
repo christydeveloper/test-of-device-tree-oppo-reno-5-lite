@@ -1,4 +1,4 @@
-LOCAL_PATH := device/OPLUS/CPH2205
+LOCAL_PATH := OSSIS/OPLUS/CPH2205
 
 TARGET_BOARD_PLATFORM := mt6779               # From ro.mediatek.platform, but lowercase value
 TARGET_NO_BOOTLOADER := true
